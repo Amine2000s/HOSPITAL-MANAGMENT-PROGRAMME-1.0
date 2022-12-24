@@ -1,2 +1,2 @@
 # HOSPITAL MANAGMENT PROGRAMME 1.0
- hospital managmnet programm using natice C language 
+ hospital managmnet programm using native C language 
